@@ -8,11 +8,14 @@ Hola me llamo Anyelo y tengo 20 años soy aspirante a Desarrollador FullStack, s
 
 * Conocimientos en:
 
-    |Backend|Frontend|Base de Datos|
-    |:-:|:-:|:-:|
-    |Java|Html|SQL Server|
-    |JUnit|CSS|MySQL|
-    |Mockito|||
+    |Backend|Frontend|Base de Datos|Herramientas|
+    |:-:|:-:|:-:|:-:|
+    |Java|Html|SQL Server|Git y GitHub|
+    |JUnit|CSS|MySQL|Postman|
+    |Mockito||||
+    |Spring||||
+    |Spring Boot||||
+    |Spring Data||||
 <br>
 <br>
 
